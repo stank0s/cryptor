@@ -1,1 +1,3 @@
-# cryptor
+## cryptor
+
+Encrypts and decrypts bytes.
